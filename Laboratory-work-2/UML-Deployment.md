@@ -1,1 +1,1 @@
-![](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/oleksandrblazhko/ai-191-kucheruk/Laboratory-work-2/UML-Deployment.puml)
+![](https://www.plantuml.com/plantuml/png/TP71IiD048Rl-nH3x_K1Sf2sjY9e92O13-9XcemXTZDJPoSjAhwxIubGJ7hBy7yVV64NmL2jxxnhsKZVi298fGzqTj_JvrPGQ-V-lc0-XzbAvHX8OSE7LeKxOfkvatjvPgbfUe9l1_2I4rO6o_tUjnLQA_pgVjnWBPyBs7WCrbQm8kHOxdU3znY9g_S01Uc1z5pgy4iOydKna9a4QvIAfmTOe-4M0utn0XjASKSwI2Ln4BtrSeGqSlvak8dQ-EVNeve4xieoWvm-UWhc_is3CzMLG3od-N5I0asUtRW5SHsVynS0)
