@@ -1,0 +1,27 @@
+@startuml
+interface Mouse
+interface Keyboard
+
+Keyboard -- "Browser Environment"
+Mouse -- "Browser Environment"
+node "Browser Environment" {
+  [React Application]
+}
+
+node "AWS Elastic Beanstalk" {
+  [Node.js Server]
+}
+
+node "Amazon RDS" {
+  [PostgreSQL Database]
+}
+
+node "Amazon SageMaker" {
+  [TensorFlow Model]
+}
+
+
+[React Application] --> [Node.js Server]: HTTP Request
+[Node.js Server] --> [PostgreSQL Database]: SQL
+[Node.js Server] --> [TensorFlow Model]: gRPC
+@enduml
